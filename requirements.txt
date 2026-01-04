@@ -1,0 +1,3 @@
+# Gradio framework for UI generation
+# Using latest stable version (updated from course's 5.23.2)
+gradio>=5.11.0
