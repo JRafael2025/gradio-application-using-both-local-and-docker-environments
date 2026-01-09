@@ -1,4 +1,4 @@
-# GitHub Auto Post Gradio Application
+# Gradio Application Using Both Local and Docker Environments
 
 ## Project Overview
 The **Gradio Application Using Both Local and Docker Environments** project is a Python-based web application built using the Gradio framework. This application allows users to interact with a simple interface where they can input data and receive a response. It provides a convenient way to demonstrate model deployment with Gradio, showcasing both local and Docker deployment methods.
